@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DD54D8AA-8B2F-401A-8859-D7007BF0ECE3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DotLinkedSegue</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B612DCE00D8B718F5DDF3C9FB6338D195735BF1</key>
+		<string>https://github.com/dskat/DotLinkedSegue.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DotLinkedSegue.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B612DCE00D8B718F5DDF3C9FB6338D195735BF1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dskat/DotLinkedSegue.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B612DCE00D8B718F5DDF3C9FB6338D195735BF1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B612DCE00D8B718F5DDF3C9FB6338D195735BF1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DotLinkedSegue</string>
+		</dict>
+	</array>
+</dict>
+</plist>
